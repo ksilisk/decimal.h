@@ -5,7 +5,7 @@
 * [Credits](#credits)
 
 ## Description
-Our `string.h` C library implementation with Unit tests.
+C Library for working with large numbers. With Unit tests.
 
 ## Build
       $ git clone https://github.com/ksilisk/decimal.h.git
